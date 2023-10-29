@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Viswes</h1>
 <h3 align="center">A passionate frontend developer and Data Scientist from India</h3>
-<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)">
+<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=visweswar39&label=Profile%20views&color=0e75b6&style=flat" alt="visweswar39" /> </p>
 
