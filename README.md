@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Express,MongoDB**
 
-- 👨‍💻 All of my projects are available at [https://visweswar39.github.io/ViswaPortfolio/#/](https://visweswar39.github.io/ViswaPortfolio/#/)
+- 👨‍💻 All of my projects are available at [https://visweswar39.github.io/ViswaPortfolio/#/](https://visweswar39.github.io/ViswaPortfolio/)
 
 - 💬 Ask me about **react native, react, data science**
 
